@@ -1,0 +1,9 @@
+# Java compiled files
+
+/bin/*
+.setti*
+
+# project files
+
+.project
+.classpath
